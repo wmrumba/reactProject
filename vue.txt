@@ -1,0 +1,5 @@
+Vue.js学习资源：
+1.vue.js中文官网：http://cn.vue.js.org
+2.vue.js源码:http://github.com/vuejs/vue
+3.vuejs官方工具：https://github.com/vuejs
+4.vue官方论坛:http://forum.vuejs.org
